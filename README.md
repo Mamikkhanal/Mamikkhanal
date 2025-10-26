@@ -1,10 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mamik Khanal</h1>
-<h3 align="center">AI enthusiast and Full Stack Developer</h3>
+<!-- Beautiful GitHub Profile README for Mamik Khanal -->
+<h1 align="center">👋 Hi, I'm Mamik Khanal</h1>
+<h3 align="center">🚀 Full Stack Developer | Laravel • Vue • React • Filament • DevOps Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:mamik.khanal9@gmail.com"><img src="https://img.shields.io/badge/Email-mamik.khanal9%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/mamikkhanal"><img src="https://img.shields.io/badge/LinkedIn-Mamik%20Khanal-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Mamikkhanal"><img src="https://img.shields.io/badge/GitHub-MamikKhanal-black?style=for-the-badge&logo=github"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About Me  
+💻 I’m a **Full Stack Developer** with years of experience building scalable, enterprise-grade applications.  
+⚙️ I specialize in **Laravel, Vue.js, React, Filament**, and **DevOps (Docker, Jenkins, AWS)**.  
+🚀 Passionate about designing clean architectures, optimizing APIs, and automating workflows.  
+🧩 I enjoy blending functionality with aesthetics — making tech simple and impactful.  
+📈 Currently leading projects that integrate **microservices**, **CI/CD pipelines**, and **Agile** delivery.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages  
+`PHP` • `JavaScript` • `TypeScript` • `Python`
+
+#### ⚙️ Frameworks & Libraries  
+`Laravel` • `Filament` • `Vue.js` • `React` • `Next.js` • `Express.js` • `Livewire` • `Tailwind CSS`
+
+#### 🗄️ Databases  
+`MySQL` • `NoSQL`
+
+#### ☁️ Cloud & DevOps  
+`AWS` • `Docker` • `Jenkins` • `Git` • `Bitbucket` • `CI/CD` • `Microservices`
+
+#### 🧩 Methodologies  
+`Agile` • `Scrum` • `Waterfall` • `Test-Driven Development (TDD)`
+
+---
+
+### 🌟 Featured Projects
+
+- **🚗 Ride Share App** — Real-time Laravel + Vue.js ride-sharing platform  
+- **🧠 Driver Drowsiness Detection** — AI-based system using CNN + OpenVINO for live video analysis  
+- **🧩 Filament Multilevel Navigation Plugin** — Custom Filament plugin with dynamic topbar and icon configuration  
+- **🎓 Educational Platform** — Multi-tab Filament system for student management, document uploads, and emergency contacts
+
+---
+
+### ✨ Quote I Live By  
+> “Great software isn’t just built — it’s crafted with clarity, care, and curiosity.”
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:mamik.khanal9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px"></a>
+  <a href="https://linkedin.com/in/mamikkhanal"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"></a>
+  <a href="https://github.com/Mamikkhanal"><img src="https://skillicons.dev/icons?i=github" width="40px"></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star or connecting!**  
